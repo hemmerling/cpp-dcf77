@@ -8,5 +8,5 @@ im im Quelltext über
 
 \#define MC_treiberpfad "c:\\borland\\bgi"
 
-definierte Verzeichnis "c:\borland\bgi"
+definierten Verzeichnis "c:\borland\bgi"
 befinden
