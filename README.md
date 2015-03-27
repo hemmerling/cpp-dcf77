@@ -6,7 +6,7 @@ BORLAND C/C++ Compiler mitgelieferten
 DOS-Graphiktreiber ( BGI-Treiber ) 
 im im Quelltext über
 
-\\#define MC_treiberpfad "c:\\borland\\bgi"
+\#define MC_treiberpfad "c:\\borland\\bgi"
 
 definierte Verzeichnis "c:\borland\bgi"
 befinden
