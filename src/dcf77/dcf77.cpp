@@ -4,8 +4,11 @@
  *  @brief     Zeitsignal empfangen, Uhrzeit anzeigen   
  *  @author    Rolf Hemmerling <hemmerling@gmx.net>
  *  @version   1.00, 
- *             Programmiersprache "Borland C/C++" / "Turbo-C/C++" fuer MSDOS,
- *             Entwicklungswerkzeug "Borland C/C++ 5.5"
+ *             Programmiersprache "Borland C/C++" fuer MSDOS,
+ *             Entwicklungswerkzeuge - TURBO C/C++ 2.0 / 3.0  
+ *                                   - Borland C/C++ 3.1
+ *                                   - Turbo C/C++ 4.5
+ *    
  *  @date      2015-01-01
  *  @copyright Apache License, Version 2.0
  *
@@ -31,7 +34,7 @@
  *  Diese Software laesst sich nicht mit dem freien 
  *  Entwicklungswerkzeug "Borland C/C++ 5.5" uebersetzen, 
  *  da dieses nur Windows- und keine DOS-Programme erzeugt 
- *  ( u.a. ist die structure REGS unbekannt ).
+ *  ( u.a. ist die Pascal-Structure REGS unbekannt ).
  *
  *  Letztes Update: 2000-03-24
  */
