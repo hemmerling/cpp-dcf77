@@ -5,7 +5,8 @@
  *  @author    Rolf Hemmerling <hemmerling@gmx.net>
  *  @version   1.00, 
  *             Programmiersprache "Borland C/C++" fuer MSDOS,
- *             Entwicklungswerkzeuge - TURBO C/C++ 2.0 / 3.0 
+ *             Entwicklungswerkzeuge 
+ *                                   - TURBO C/C++ 2.0 / 3.0 
  *                                   - Borland C/C++ 3.1
  *                                   - Turbo C/C++ 4.5
  *  @date      2015-01-01
@@ -31,9 +32,9 @@
  *  and limitations under the License.
  *
  *  Diese Software laesst sich nicht mit dem freien 
- *  Entwicklungswerkzeug "Borland C/C++ 5.5" übersetzen, 
+ *  Entwicklungswerkzeug "Borland C/C++ 5.5" uebersetzen, 
  *  da dieses nur Windows- und keine DOS-Programme erzeugt 
- *  ( u.a. ist die Pascal-Structure REGS unbekannt ).
+ *  ( u.a. ist die C-Structure REGS unbekannt ).
  *
  *  Letztes Update: 2000-03-24
  */
