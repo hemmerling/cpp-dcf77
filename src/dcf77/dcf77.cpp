@@ -707,7 +707,7 @@ void main()
  do
    {
    clrscr();
-   printf("\n\n\n\n      Hemmerling (R) Normalzeit (DCF-77)");
+   printf("\n\n\n\n      dcf-77 - Normalzeit (DCF-77)");
    printf("\n      ==================================");
    printf("\n      Copyright 2000-2015 Rolf Hemmerling");
    printf("\n      Licensed under the Apache License, Version 2.0");
