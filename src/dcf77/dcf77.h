@@ -39,7 +39,7 @@
  *  da dieses nur Windows- und keine DOS-Programme erzeugt 
  *  ( u.a. ist die C-Structure REGS unbekannt ).
  *
- *  Letztes Update: 2000-03-24
+ *  Haupt-Entwicklungszeit: 2000-03-01 - 2000-03-24
  */
  
 /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
